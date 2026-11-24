@@ -1,4 +1,4 @@
-from cie2.largest1 import findlargest
+from largest1 import findlargest
 def testcase1():
     assert(findlargest(2,3,5)) == 5 
 def testcase2():
